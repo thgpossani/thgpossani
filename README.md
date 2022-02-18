@@ -1,4 +1,4 @@
-##  Olá .. Meu Nome e Thiago Possani.
+##  Olá .. Meu Nome é Thiago Vinicius Possani.
 
 <div>
   <a href="https://github.com/rafaballerini">
